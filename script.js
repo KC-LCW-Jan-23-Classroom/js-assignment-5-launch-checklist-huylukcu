@@ -17,7 +17,6 @@ window.addEventListener("load", function() {
      });
    
      let list = document.getElementById("faultyItems");
-     list.style.visibility = "hidden";
      
      let form = document.querySelector("form");
    
